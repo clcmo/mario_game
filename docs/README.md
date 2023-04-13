@@ -6,6 +6,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/clcmo/mario_game?style=for-the-badge)](https://github.com/clcmo/mario_game/issues)
 [![GitHub donate](https://img.shields.io/github/sponsors/clcmo?color=pink&style=for-the-badge)](https://github.com/sponsors/clcmo)
 
-Based on [Kubowania](https://github.com/kubowania/mario)'s tutorial.
+Based on [Kubowania](https://github.com/kubowania/mario)'s tutorial, but with CI and GitHub Actions.
 
 Licence: [MIT](LICENSE)
